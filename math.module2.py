@@ -2,7 +2,7 @@
 DATE:16TH DEC 2022
 DAY: FRIDAY
 TOPIC: MATH MODULE
-AUTHOR: RAMA BHARGAVI
+AUTHOR: pooja
 '''
 import math
 print(math.ceil(0.1))#1
