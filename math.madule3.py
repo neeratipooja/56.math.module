@@ -2,7 +2,7 @@
 DATE:16TH DEC 2022
 DAY: FRIDAY
 TOPIC: MATH MODULE
-AUTHOR:RAMA BHARGAvi
+AUTHOR:pooja
 '''
 import math
 a=math.pow(3,3)
